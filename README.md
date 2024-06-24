@@ -21,5 +21,7 @@ Here are some highlights of what you'll find in my repositories:
 ## Contact Me
 
 - **Email**: `richiejd.87@gmail.com`
-- **Github**: `https://github.com/RichardTelecomTech/`
+- **Github**: ``
+- - **GitHub**: [TelcoVantage](https://github.com/RichardTelecomTech/)
+
 
