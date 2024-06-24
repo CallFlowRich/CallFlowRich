@@ -20,7 +20,6 @@ Here are some highlights of what you'll find in my repositories:
 
 
 - **Email**: `richiejd.87@gmail.com`
-- **Github**: ``
-- - **GitHub**: [TelcoVantage](https://github.com/RichardTelecomTech/)
+- **GitHub**: [TelcoVantage](https://github.com/RichardTelecomTech/)
 
 
